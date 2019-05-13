@@ -25,9 +25,9 @@ var movie;
 switch(command){
     case "concert-this":
         concertThis(input);
-    case "spotify-this-song"
-        spotifyThis();
-}
+    // case "spotify-this-song"
+        // spotifyThis();
+};
 
 function concertThis(){
     artist = input
