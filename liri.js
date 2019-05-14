@@ -4,7 +4,7 @@ require("dotenv").config();
 var axios = require("axios");
 //require spotify npm
 var Spotify = require("node-spotify-api")
-
+//require moment npm
 var moment = require('moment');
 
 
@@ -34,6 +34,15 @@ switch(command){
             spotifyThis("The Sign Ace of Base")
         }
             break;
+    case "movie-this":
+    if (input){
+        movieThis(input);;
+    } else{
+        movieThis("Mr. Nobody")
+            console.log("If you haven't watched 'Mr. Nobody' then you should: <http://www.imdb.com/title/tt0485947/>"),
+            console.log("It's on Netflix!")
+    }
+
 };
 
 function concertThis(){
@@ -82,6 +91,31 @@ function spotifyThis(input){
     console.log("There's been an error: " + err);
   })
 
+};
+
+function movieThis(input) {
+    queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
+    axios.get(queryUrl).then(
+        function(response) {
+            console.log(" ")
+            console.log("======================= Movie Information for " + input + " =======================")
+            console.log(" ")
+            console.log("Movie Title: " + response.data.Title)
+            console.log("Release Year: " + response.data.Year)
+            console.log("IMDB Rating: " + response.data.imdbRating)
+            console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value)
+            console.log("Country Produced: " + response.data.Country)
+            console.log("Language: " + response.data.Language)
+            console.log("Plot: " + response.data.Plot)
+            console.log("Actors: " + response.data.Actors)
+            console.log(" ")
+            console.log("======================= Movie Information for " + input + " =======================")
+      
+
+        })
+        .catch(function(err) {
+            console.log("There's been an error: " + err)
+        })
 };
 
 
