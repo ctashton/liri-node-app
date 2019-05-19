@@ -1,0 +1,518 @@
+
+Search command:concert-this Dance Gavin Dance
+undefined will be playing at Rock USA in Oshkosh, United States on 07/19/2019
+
+Search command:concert-this Dance Gavin Dance
+undefined will be playing at Vans Warped Tour (July 20-21) in Mountain View, United States on 07/21/2019
+
+Search command:concert-this Dance Gavin Dance
+undefined will be playing at Rock USA in Oshkosh, United States on 07/19/2019
+
+Search command:concert-this Dance Gavin Dance
+undefined will be playing at Vans Warped Tour (July 20-21) in Mountain View, United States on 07/21/2019
+
+Search command:concert-this Dance Gavin Dance
+undefined will be playing at NOON + CAFE in 大阪市, 日本 on 06/21/2019
+
+Search command:concert-this Dance Gavin Dance
+Dance Gavin Dance will be playing at Rock USA in Oshkosh, United States on 07/19/2019
+
+Search command:concert-this Dance Gavin Dance
+Dance Gavin Dance will be playing at Vans Warped Tour (July 20-21) in Mountain View, United States on 07/21/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Columbus, United States on 06/27/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Hartford, United States on 06/29/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Hershey, United States on 07/05/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Burgettstown, United States on 07/06/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Toronto, Canada on 07/07/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Holmdel, United States on 07/09/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Mansfield, United States on 07/10/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Bristow, United States on 07/11/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Bangor, United States on 07/13/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at Festival d'été de Québec 2019 in Québec, Canada on 07/14/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Cuyahoga Falls, United States on 07/16/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Darien Center, United States on 07/17/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Virginia Beach, United States on 07/20/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Columbia, United States on 07/21/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Charlotte, United States on 07/23/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in West Palm Beach, United States on 07/25/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Tampa, United States on 07/26/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Atlanta, United States on 07/27/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Jacksonville, United States on 07/29/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in The Woodlands, United States on 07/31/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Austin, United States on 08/01/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Dallas, United States on 08/02/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in El Paso, United States on 08/04/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Phoenix, United States on 08/05/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in San Diego, United States on 08/07/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Los Angeles, United States on 08/08/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at Outside Lands 2019 in San Francisco, United States on 08/09/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Irvine, United States on 08/27/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Ridgefield, United States on 08/30/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Seattle, United States on 08/31/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Salt Lake City, United States on 09/02/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Denver, United States on 09/04/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Wichita, United States on 09/06/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Council Bluffs, United States on 09/07/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Bonner Springs, United States on 09/08/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Detroit, United States on 09/10/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in St. Louis, United States on 09/14/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Cincinnati, United States on 09/16/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Camden, United States on 09/18/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at Aftershock 2019 in Sacramento, United States on 10/11/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at Vans Warped Tour 25th Anniversary in Atlantic City, United States on 06/30/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Saratoga Springs, United States on 07/01/2019
+
+Search command:concert-this blink-182
+blink-182 will be playing at blink-182 & Lil Wayne Tour 2019 in Indianapolis, United States on 07/03/2019
+
+Search command:spotify-this-song snow outside
+Snow Outside was released by Dave Matthews Band on the album Away From The World (Deluxe Version).
+Preview Url:https://p.scdn.co/mp3-preview/7e7af8b30c8c2f59722479172ba7d3445502ed64?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Hours Outside in the Snow was released by Modern Baseball on the album Sports.
+Preview Url:https://p.scdn.co/mp3-preview/f238203451465e453b5c3cb67190080132be7a50?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+A Place Outside was released by Angel Snow on the album Angel Snow.
+Preview Url:https://p.scdn.co/mp3-preview/4d694b49908f314c41a07d9caddd6e7994c088b2?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Let It Snow Baby, It's Cold Outside was released by Kurt Hugo Schneider on the album Let It Snow Baby, It's Cold Outside.
+Preview Url:https://p.scdn.co/mp3-preview/f0a1722ec8c8301c9431bf3cf16b2d63aac6e5a5?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Snow Outside was released by Therapeutic Tibetan Spa Collection on the album Snow Spa (Soothing Sounds, Relaxation, Regeneration, Wellness and Massage).
+Preview Url:https://p.scdn.co/mp3-preview/61f5704d752d3789692e3705dcad58792b53db10?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Snow Outside was released by Dream of Electric Sheep on the album Impressions.
+Preview Url:https://p.scdn.co/mp3-preview/2858749cbddd76a264858704a0f3c155ec0788da?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Outside in the Snow was released by Big Harp on the album Chain Letters.
+Preview Url:https://p.scdn.co/mp3-preview/2dce11b6f2bd2cae915be0f8e7bce20f5a0f5c18?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Stuck Outside was released by Man From Fiery Hill on the album Snow.
+Preview Url:https://p.scdn.co/mp3-preview/493e6438bc26a62159d9beec812bbbf373d49f46?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Outside Falls The Snow was released by Julian Brown on the album Outside Falls The Snow.
+Preview Url:https://p.scdn.co/mp3-preview/7485fd2bc55033d309d92ad8e5034f95f674e88c?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Snow Outside The Mill was released by Bill Morrissey on the album North.
+Preview Url:null
+
+Search command:spotify-this-song snow outside
+Snow Outside My Window was released by Nils on the album Christmas Everyday.
+Preview Url:https://p.scdn.co/mp3-preview/8c664661b47c3a50cf52826d12f3f95e1b51d05f?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Snow Outside the Window was released by Alexander Magomedov on the album Alexander Magomedov.
+Preview Url:https://p.scdn.co/mp3-preview/5b104dde398b11f7aa0d08ad090500264345bf72?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Snow was released by MOG on the album The Night Outside.
+Preview Url:https://p.scdn.co/mp3-preview/6dd012eddde4278743ce94f46940b0b0807117e0?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Snow was released by Maureen Washington on the album Baby It's Cold Outside.
+Preview Url:https://p.scdn.co/mp3-preview/501f859f656f779f37fb3f50536deae52105930c?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Baby, It's Cold Outside was released by Amy Jill & Bradley Williams on the album Snow Snow Snow Snow.
+Preview Url:https://p.scdn.co/mp3-preview/5be28bfc8256c8829fcbf720c16616eb925673bc?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Snow was released by Connect Church & Trae Castles on the album Church Outside the Box, 2009-2011.
+Preview Url:https://p.scdn.co/mp3-preview/708ac84bc4510fd56bbce80fc65590b1f17e67b9?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Baby, It's Cold Outside was released by M.W. on the album Snow.
+Preview Url:https://p.scdn.co/mp3-preview/673f12b4ee094bbab33c0f5cd61b7ee6ab5f8dff?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+White snow outside the window was released by Andante No.6 on the album A piano that stabilizes the mind of a weary student.
+Preview Url:https://p.scdn.co/mp3-preview/6269d62c3130e7579edbf66d4fd501f7b95cd8b6?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+White snow outside the window was released by Andante No.6 on the album Sweet piano collection with winter sensibility.
+Preview Url:https://p.scdn.co/mp3-preview/6269d62c3130e7579edbf66d4fd501f7b95cd8b6?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song snow outside
+Outside Window With White Snow was released by Agnes on the album The New Age Piano In Winter And The Sound Of Nature.
+Preview Url:https://p.scdn.co/mp3-preview/62fdbc9f9aeb68b7b3fd71c6afe250436f138eb8?cid=578619baad98483faa50215b79f55fb5
+
+Search command:movie-this Pulp Fiction
+ Movie Title: Pulp Fiction
+Release Year: 1994
+IMDB Rating: 8.9
+Rotten Tomatoes Rating: 92%
+Country Produced: USA
+Language: English, Spanish, French
+Plot: The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album The Hits--Chapter One.
+Preview Url:https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album Millennium.
+Preview Url:https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Anthem Lights on the album Covers Part IV.
+Preview Url:https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Jess and Gabriel on the album Under the Covers, Vol. 3.
+Preview Url:https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Mick Jensen on the album I Want It That Way.
+Preview Url:https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Tyler and Mark on the album Beautiful Dreams.
+Preview Url:https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys) was released by "Weird Al" Yankovic on the album Poodle Hat.
+Preview Url:https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Steel Panther on the album I Want It That Way.
+Preview Url:null
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album NKOTBSB.
+Preview Url:https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Manuel Costa on the album I Want It That Way.
+Preview Url:https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Scary Pockets on the album Nu Funk.
+Preview Url:https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Yshop on the album I Want It That Way.
+Preview Url:https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Dynamite Boy on the album Punk Goes Pop.
+Preview Url:null
+
+Search command:spotify-this-song "I Want it That Way"
+Bye Bye Bye / I Want It That Way (Glee Cast Version) was released by Glee Cast on the album Bye Bye Bye / I Want It That Way (Glee Cast Version).
+Preview Url:https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys) was released by "Weird Al" Yankovic on the album The Essential "Weird Al" Yankovic.
+Preview Url:https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album NOW That's What I Call 90s Pop.
+Preview Url:https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Love Hits On Piano on the album Timeless Love.
+Preview Url:https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Boyce Avenue on the album Cover Sessions, Vol. 2.
+Preview Url:https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album 90 Sweet 90s Hits!.
+Preview Url:https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Scott Bradlee's Postmodern Jukebox on the album Selfies on Kodachrome.
+Preview Url:https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey Look Ma, I Made It was released by Panic! At The Disco on the album Pray For The Wicked.
+Preview Url:https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey Julie! (feat. Lil Yachty) was released by KYLE on the album Hey Julie! (feat. Lil Yachty).
+Preview Url:https://p.scdn.co/mp3-preview/bd1734cf81b8d14de69c6c9d7bc85d5c8c24742a?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey Ya! was released by OutKast on the album Speakerboxxx/The Love Below.
+Preview Url:https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Snow (Hey Oh) was released by Red Hot Chili Peppers on the album Stadium Arcadium.
+Preview Url:https://p.scdn.co/mp3-preview/2824b10f1392dff3a3c95309a205d6f3e2ea56ad?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey Jude - Remastered 2015 was released by The Beatles on the album 1 (Remastered).
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey Brother was released by Avicii on the album True.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey Ma was released by Cam’ron on the album Come Home With Me.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Ho Hey was released by The Lumineers on the album The Lumineers.
+Preview Url:https://p.scdn.co/mp3-preview/57e57e6eb594e55de01b85cea4d470243f6121f5?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey Ya! was released by OutKast on the album The Way You Move / Hey Ya!.
+Preview Url:https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey Cowgirl was released by Mac DeMarco on the album Here Comes The Cowboy.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey Joe was released by Jimi Hendrix on the album Are You Experienced.
+Preview Url:https://p.scdn.co/mp3-preview/28fc8b1b9826ddc224d26b4df661fb79f1b94351?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey You was released by Pink Floyd on the album The Wall.
+Preview Url:https://p.scdn.co/mp3-preview/a03fcdbf2223e1fe78f886770b0797553b924fc6?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+HEY CHILD was released by X Ambassadors on the album HEY CHILD.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey DJ was released by CNCO on the album CNCO.
+Preview Url:https://p.scdn.co/mp3-preview/0d5518f094511a505c78bc8b337e876fd3ea893c?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey There Delilah was released by Plain White T's on the album Every Second Counts.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey Jealousy was released by Gin Blossoms on the album Outside Looking In: The Best Of The Gin Blossoms.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey Girl was released by Billy Currington on the album We Are Tonight.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey There Delilah was released by Plain White T's on the album All That We Needed.
+Preview Url:null
+
+Search command:spotify-this-song hey
+Hey was released by Pixies on the album Doolittle.
+Preview Url:https://p.scdn.co/mp3-preview/b316a9e69bd4b6ba754fb205ca70173ce2ef182c?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song hey
+Hey, Soul Sister was released by Train on the album Save Me, San Francisco (Golden Gate Edition).
+Preview Url:https://p.scdn.co/mp3-preview/29d3d8f13d8e96237d765dd61ecd0aa323776a31?cid=578619baad98483faa50215b79f55fb5
+
+Search command:concert-this Dance Gavin Dance
+Dance Gavin Dance will be playing at Rock USA in Oshkosh, United States on 07/19/2019
+
+Search command:concert-this Dance Gavin Dance
+Dance Gavin Dance will be playing at Vans Warped Tour (July 20-21) in Mountain View, United States on 07/21/2019
+
+Search command:spotify-this-song Strawberry Swisher
+Strawberry Swisher pt. 3 was released by Dance Gavin Dance on the album Acceptance Speech.
+Preview Url:https://p.scdn.co/mp3-preview/c3637d1cf75220baa44696e99bf717b65f239e0b?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song Strawberry Swisher
+Strawberry Swisher, Pt. 2 was released by Dance Gavin Dance on the album Happiness.
+Preview Url:https://p.scdn.co/mp3-preview/6924aa8d7504ec17f79363ff50039e12f30f5221?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song Strawberry Swisher
+Strawberry Swisher, Pt. 1 was released by Dance Gavin Dance on the album Happiness.
+Preview Url:https://p.scdn.co/mp3-preview/8dc0d3aaa385de2d0e4f5667144fbe0899d4bc0a?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song Strawberry Swisher
+Strawberry Swisher was released by Demrick on the album Going Up Gang.
+Preview Url:https://p.scdn.co/mp3-preview/00773cbe69482258cde060741c80e4e9baf63285?cid=578619baad98483faa50215b79f55fb5
+
+Search command:concert-this Dance Gavin Dance
+Dance Gavin Dance will be playing at Rock USA in Oshkosh, United States on 07/19/2019
+
+Search command:concert-this Dance Gavin Dance
+Dance Gavin Dance will be playing at Vans Warped Tour (July 20-21) in Mountain View, United States on 07/21/2019
+
+Search command:movie-this the matrix
+ Movie Title: The Matrix
+Release Year: 1999
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 88%
+Country Produced: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album The Hits--Chapter One.
+Preview Url:https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album Millennium.
+Preview Url:https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way - Reimagined was released by Backstreet Boys on the album I Want It That Way (Reimagined).
+Preview Url:https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Tyler and Mark on the album Beautiful Dreams.
+Preview Url:https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys) was released by "Weird Al" Yankovic on the album Poodle Hat.
+Preview Url:https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album 90 Sweet 90s Hits!.
+Preview Url:https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Backstreet Boys on the album NKOTBSB.
+Preview Url:https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Steel Panther on the album I Want It That Way.
+Preview Url:null
+
+Search command:spotify-this-song "I Want it That Way"
+Bye Bye Bye / I Want It That Way (Glee Cast Version) was released by Glee Cast on the album Bye Bye Bye / I Want It That Way (Glee Cast Version).
+Preview Url:https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Boyce Avenue on the album Cover Sessions, Vol. 2.
+Preview Url:https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Manuel Costa on the album I Want It That Way.
+Preview Url:https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Dynamite Boy on the album Punk Goes Pop.
+Preview Url:null
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Scary Pockets on the album Nu Funk.
+Preview Url:https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Mick Jensen on the album I Want It That Way.
+Preview Url:https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Scott Bradlee's Postmodern Jukebox on the album Selfies on Kodachrome.
+Preview Url:https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Love Hits On Piano on the album Timeless Love.
+Preview Url:https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys) was released by "Weird Al" Yankovic on the album The Essential "Weird Al" Yankovic.
+Preview Url:https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Jess and Gabriel on the album Under the Covers, Vol. 3.
+Preview Url:https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Anthem Lights on the album Covers Part IV.
+Preview Url:https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=578619baad98483faa50215b79f55fb5
+
+Search command:spotify-this-song "I Want it That Way"
+I Want It That Way was released by Yshop on the album I Want It That Way.
+Preview Url:https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=578619baad98483faa50215b79f55fb5

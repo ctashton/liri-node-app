@@ -15,12 +15,16 @@ var spotify = new Spotify(keys.spotify);
 // require node file system
 var fs = require("fs")
 
-
+// variable holding process arguments array
 var args = process.argv
+// our command variable is expected in index 2
 var command = args[2]
+// slice args array starting at index 3
 var input = args.slice(3).join(" ");
+// holding artists variable
 var artist;
 liri();
+
 console.log(input)
 function liri(){ 
     switch(command){
